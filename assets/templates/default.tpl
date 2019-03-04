@@ -29,7 +29,7 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="%root_path%WW Game/index.html">WW Game</a>
+              <a class="dropdown-item" href="%root_path%WW Game/Index.html">WW Game</a>
 			  <!--<div class="dropdown-divider"></div>-->
             </div>
           </li>
